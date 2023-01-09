@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\Nullable-Delegate-Collections.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\Nullable-Delegate-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\Nullable-Delegate-Collections.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\Nullable-Delegate-Collections.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\Nullable-Delegate-Collections.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\bin\Debug\net6.0\Nullable-Delegate-Collections.exe
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\bin\Debug\net6.0\Nullable-Delegate-Collections.deps.json
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\bin\Debug\net6.0\Nullable-Delegate-Collections.runtimeconfig.json
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\bin\Debug\net6.0\Nullable-Delegate-Collections.dll
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\bin\Debug\net6.0\Nullable-Delegate-Collections.pdb
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\Nullable-Delegate-Collections.dll
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\refint\Nullable-Delegate-Collections.dll
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\Nullable-Delegate-Collections.pdb
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\Nullable-Delegate-Collections.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Collections2\Nullable-Delegate-Collections\Nullable-Delegate-Collections\obj\Debug\net6.0\ref\Nullable-Delegate-Collections.dll
